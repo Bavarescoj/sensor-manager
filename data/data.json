@@ -1,0 +1,2630 @@
+{
+  "samples": [
+    {
+      "sensors": {
+        "0": {
+          "interpolated": false,
+          "value": 12.568220938543412
+        },
+        "1": {
+          "interpolated": false,
+          "value": 4.0116706325789275
+        }
+      },
+      "timestamp": 0
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 12.761410621820414
+        },
+        "1": {
+          "interpolated": false,
+          "value": 37.1335108293286
+        }
+      },
+      "timestamp": 10
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 12.954600305097415
+        },
+        "1": {
+          "interpolated": false,
+          "value": 27.686406185203978
+        }
+      },
+      "timestamp": 20
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 13.147789988374416
+        },
+        "1": {
+          "interpolated": false,
+          "value": 20.589373788381053
+        }
+      },
+      "timestamp": 30
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 13.340979671651416
+        },
+        "1": {
+          "interpolated": false,
+          "value": 27.454964813814758
+        }
+      },
+      "timestamp": 40
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 13.534169354928418
+        },
+        "1": {
+          "interpolated": false,
+          "value": 0.4903389058638856
+        }
+      },
+      "timestamp": 50
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 13.72735903820542
+        },
+        "1": {
+          "interpolated": false,
+          "value": 9.999121856412273
+        }
+      },
+      "timestamp": 60
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 13.92054872148242
+        },
+        "1": {
+          "interpolated": false,
+          "value": 9.014679412350954
+        }
+      },
+      "timestamp": 70
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 14.113738404759422
+        },
+        "1": {
+          "interpolated": false,
+          "value": 31.179085328585092
+        }
+      },
+      "timestamp": 80
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 14.306928088036424
+        },
+        "1": {
+          "interpolated": false,
+          "value": 5.477154322642817
+        }
+      },
+      "timestamp": 90
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 14.500117771313423
+        },
+        "1": {
+          "interpolated": false,
+          "value": 39.19170308468461
+        }
+      },
+      "timestamp": 100
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 14.693307454590425
+        },
+        "1": {
+          "interpolated": false,
+          "value": 41.54720855141082
+        }
+      },
+      "timestamp": 110
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 14.886497137867426
+        },
+        "1": {
+          "interpolated": false,
+          "value": 23.855691066996297
+        }
+      },
+      "timestamp": 120
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 15.079686821144428
+        },
+        "1": {
+          "interpolated": false,
+          "value": 47.00050059352346
+        }
+      },
+      "timestamp": 130
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 15.27287650442143
+        },
+        "1": {
+          "interpolated": false,
+          "value": 18.798930654897152
+        }
+      },
+      "timestamp": 140
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 15.46606618769843
+        },
+        "1": {
+          "interpolated": false,
+          "value": 28.367210727418218
+        }
+      },
+      "timestamp": 150
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 15.65925587097543
+        },
+        "1": {
+          "interpolated": false,
+          "value": 26.010184370417296
+        }
+      },
+      "timestamp": 160
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 15.852445554252432
+        },
+        "1": {
+          "interpolated": false,
+          "value": 48.03565635483135
+        }
+      },
+      "timestamp": 170
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 16.045635237529435
+        },
+        "1": {
+          "interpolated": false,
+          "value": 21.991917297012993
+        }
+      },
+      "timestamp": 180
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 16.238824920806433
+        },
+        "1": {
+          "interpolated": false,
+          "value": 13.351825055791489
+        }
+      },
+      "timestamp": 190
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 16.432014604083435
+        },
+        "1": {
+          "interpolated": false,
+          "value": 45.79008628987312
+        }
+      },
+      "timestamp": 200
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 16.625204287360436
+        },
+        "1": {
+          "interpolated": false,
+          "value": 40.630297592180995
+        }
+      },
+      "timestamp": 210
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 16.818393970637437
+        },
+        "1": {
+          "interpolated": false,
+          "value": 13.219334879764466
+        }
+      },
+      "timestamp": 220
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 17.01158365391444
+        },
+        "1": {
+          "interpolated": false,
+          "value": 39.66069854406304
+        }
+      },
+      "timestamp": 230
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 17.20477333719144
+        },
+        "1": {
+          "interpolated": false,
+          "value": 24.46929102574591
+        }
+      },
+      "timestamp": 240
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 17.397963020468442
+        },
+        "1": {
+          "interpolated": false,
+          "value": 33.242345562702155
+        }
+      },
+      "timestamp": 250
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 17.591152703745443
+        },
+        "1": {
+          "interpolated": false,
+          "value": 25.51728770411587
+        }
+      },
+      "timestamp": 260
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 17.784342387022445
+        },
+        "1": {
+          "interpolated": false,
+          "value": 20.92278403046363
+        }
+      },
+      "timestamp": 270
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 17.977532070299446
+        },
+        "1": {
+          "interpolated": false,
+          "value": 30.19693704392809
+        }
+      },
+      "timestamp": 280
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 18.170721753576448
+        },
+        "1": {
+          "interpolated": false,
+          "value": 39.94251816408253
+        }
+      },
+      "timestamp": 290
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 18.36391143685345
+        },
+        "1": {
+          "interpolated": false,
+          "value": 48.28830813759035
+        }
+      },
+      "timestamp": 300
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 18.55710112013045
+        },
+        "1": {
+          "interpolated": false,
+          "value": 19.42198765666477
+        }
+      },
+      "timestamp": 310
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 18.75029080340745
+        },
+        "1": {
+          "interpolated": false,
+          "value": 39.66820523278301
+        }
+      },
+      "timestamp": 320
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 18.94348048668445
+        },
+        "1": {
+          "interpolated": false,
+          "value": 12.11400059140251
+        }
+      },
+      "timestamp": 330
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 19.13667016996145
+        },
+        "1": {
+          "interpolated": false,
+          "value": 27.612299817781
+        }
+      },
+      "timestamp": 340
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 19.329859853238453
+        },
+        "1": {
+          "interpolated": false,
+          "value": 46.533796371188764
+        }
+      },
+      "timestamp": 350
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 19.523049536515455
+        },
+        "1": {
+          "interpolated": false,
+          "value": 28.607833452796893
+        }
+      },
+      "timestamp": 360
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 19.716239219792456
+        },
+        "1": {
+          "interpolated": false,
+          "value": 8.021216324048453
+        }
+      },
+      "timestamp": 370
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 19.909428903069458
+        },
+        "1": {
+          "interpolated": false,
+          "value": 43.97360485364766
+        }
+      },
+      "timestamp": 380
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 20.10261858634646
+        },
+        "1": {
+          "interpolated": false,
+          "value": 0.7757827788060712
+        }
+      },
+      "timestamp": 390
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 20.29580826962346
+        },
+        "1": {
+          "interpolated": false,
+          "value": 11.25519180516448
+        }
+      },
+      "timestamp": 400
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 20.488997952900462
+        },
+        "1": {
+          "interpolated": false,
+          "value": 21.159926279505445
+        }
+      },
+      "timestamp": 410
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 20.682187636177463
+        },
+        "1": {
+          "interpolated": false,
+          "value": 30.928060276828624
+        }
+      },
+      "timestamp": 420
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 20.875377319454465
+        },
+        "1": {
+          "interpolated": false,
+          "value": 29.346158447014215
+        }
+      },
+      "timestamp": 430
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 21.068567002731463
+        },
+        "1": {
+          "interpolated": false,
+          "value": 13.56333314712537
+        }
+      },
+      "timestamp": 440
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 21.261756686008464
+        },
+        "1": {
+          "interpolated": false,
+          "value": 25.30943696920139
+        }
+      },
+      "timestamp": 450
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 21.454946369285466
+        },
+        "1": {
+          "interpolated": false,
+          "value": 49.982234978037646
+        }
+      },
+      "timestamp": 460
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 21.648136052562467
+        },
+        "1": {
+          "interpolated": false,
+          "value": 0.7990162875973893
+        }
+      },
+      "timestamp": 470
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 21.84132573583947
+        },
+        "1": {
+          "interpolated": false,
+          "value": 31.615296944010694
+        }
+      },
+      "timestamp": 480
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 22.03451541911647
+        },
+        "1": {
+          "interpolated": false,
+          "value": 9.983165931657545
+        }
+      },
+      "timestamp": 490
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 22.22770510239347
+        },
+        "1": {
+          "interpolated": false,
+          "value": 43.578749753037435
+        }
+      },
+      "timestamp": 500
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 22.420894785670473
+        },
+        "1": {
+          "interpolated": false,
+          "value": 3.2452788307264524
+        }
+      },
+      "timestamp": 510
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 22.614084468947475
+        },
+        "1": {
+          "interpolated": false,
+          "value": 35.39734291971207
+        }
+      },
+      "timestamp": 520
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 22.807274152224476
+        },
+        "1": {
+          "interpolated": false,
+          "value": 18.230288303312058
+        }
+      },
+      "timestamp": 530
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 23.000463835501478
+        },
+        "1": {
+          "interpolated": false,
+          "value": 17.677221267456282
+        }
+      },
+      "timestamp": 540
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 23.19365351877848
+        },
+        "1": {
+          "interpolated": false,
+          "value": 33.44948415858308
+        }
+      },
+      "timestamp": 550
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 23.38684320205548
+        },
+        "1": {
+          "interpolated": false,
+          "value": 12.136322756713652
+        }
+      },
+      "timestamp": 560
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 23.58003288533248
+        },
+        "1": {
+          "interpolated": false,
+          "value": 30.522898903283103
+        }
+      },
+      "timestamp": 570
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 23.77322256860948
+        },
+        "1": {
+          "interpolated": false,
+          "value": 49.7950200268269
+        }
+      },
+      "timestamp": 580
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 23.96641225188648
+        },
+        "1": {
+          "interpolated": false,
+          "value": 23.743032219447578
+        }
+      },
+      "timestamp": 590
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 24.159601935163483
+        },
+        "1": {
+          "interpolated": false,
+          "value": 25.647052984812262
+        }
+      },
+      "timestamp": 600
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 24.352791618440484
+        },
+        "1": {
+          "interpolated": false,
+          "value": 28.489467063788616
+        }
+      },
+      "timestamp": 610
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 24.545981301717486
+        },
+        "1": {
+          "interpolated": false,
+          "value": 0.49954438856030403
+        }
+      },
+      "timestamp": 620
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 24.739170984994487
+        },
+        "1": {
+          "interpolated": false,
+          "value": 41.76964809248873
+        }
+      },
+      "timestamp": 630
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 24.93236066827149
+        },
+        "1": {
+          "interpolated": false,
+          "value": 9.0245499424692
+        }
+      },
+      "timestamp": 640
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 25.12555035154849
+        },
+        "1": {
+          "interpolated": false,
+          "value": 32.539881918027724
+        }
+      },
+      "timestamp": 650
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 25.318740034825492
+        },
+        "1": {
+          "interpolated": false,
+          "value": 46.841877437019065
+        }
+      },
+      "timestamp": 660
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 25.511929718102493
+        },
+        "1": {
+          "interpolated": false,
+          "value": 3.3482257521452357
+        }
+      },
+      "timestamp": 670
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 25.705119401379495
+        },
+        "1": {
+          "interpolated": false,
+          "value": 14.976669049151692
+        }
+      },
+      "timestamp": 680
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 25.898309084656493
+        },
+        "1": {
+          "interpolated": false,
+          "value": 6.051381562044489
+        }
+      },
+      "timestamp": 690
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 26.091498767933494
+        },
+        "1": {
+          "interpolated": false,
+          "value": 5.978777342010373
+        }
+      },
+      "timestamp": 700
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 26.284688451210496
+        },
+        "1": {
+          "interpolated": false,
+          "value": 21.24253150964892
+        }
+      },
+      "timestamp": 710
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 26.477878134487497
+        },
+        "1": {
+          "interpolated": false,
+          "value": 11.490279441124713
+        }
+      },
+      "timestamp": 720
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 26.6710678177645
+        },
+        "1": {
+          "interpolated": false,
+          "value": 3.3488816406952013
+        }
+      },
+      "timestamp": 730
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 26.8642575010415
+        },
+        "1": {
+          "interpolated": false,
+          "value": 11.740560245336045
+        }
+      },
+      "timestamp": 740
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 27.0574471843185
+        },
+        "1": {
+          "interpolated": false,
+          "value": 40.886500253199266
+        }
+      },
+      "timestamp": 750
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 27.250636867595503
+        },
+        "1": {
+          "interpolated": false,
+          "value": 2.7409175506582155
+        }
+      },
+      "timestamp": 760
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 27.443826550872505
+        },
+        "1": {
+          "interpolated": false,
+          "value": 5.715829657845318
+        }
+      },
+      "timestamp": 770
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 27.637016234149506
+        },
+        "1": {
+          "interpolated": false,
+          "value": 33.41514652141791
+        }
+      },
+      "timestamp": 780
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 27.830205917426508
+        },
+        "1": {
+          "interpolated": false,
+          "value": 15.843913496751025
+        }
+      },
+      "timestamp": 790
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 28.02339560070351
+        },
+        "1": {
+          "interpolated": false,
+          "value": 35.351168100201825
+        }
+      },
+      "timestamp": 800
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 28.21658528398051
+        },
+        "1": {
+          "interpolated": false,
+          "value": 48.115336575715354
+        }
+      },
+      "timestamp": 810
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 28.40977496725751
+        },
+        "1": {
+          "interpolated": false,
+          "value": 35.59641496757094
+        }
+      },
+      "timestamp": 820
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 28.60296465053451
+        },
+        "1": {
+          "interpolated": false,
+          "value": 45.42865068790285
+        }
+      },
+      "timestamp": 830
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 28.79615433381151
+        },
+        "1": {
+          "interpolated": false,
+          "value": 3.91452324007558
+        }
+      },
+      "timestamp": 840
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 28.989344017088513
+        },
+        "1": {
+          "interpolated": false,
+          "value": 31.171161600838417
+        }
+      },
+      "timestamp": 850
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 29.182533700365514
+        },
+        "1": {
+          "interpolated": false,
+          "value": 26.1204315609848
+        }
+      },
+      "timestamp": 860
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 29.375723383642516
+        },
+        "1": {
+          "interpolated": false,
+          "value": 25.458548405122205
+        }
+      },
+      "timestamp": 870
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 29.568913066919517
+        },
+        "1": {
+          "interpolated": false,
+          "value": 9.06151075855325
+        }
+      },
+      "timestamp": 880
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 29.76210275019652
+        },
+        "1": {
+          "interpolated": false,
+          "value": 14.45965331680462
+        }
+      },
+      "timestamp": 890
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 29.95529243347352
+        },
+        "1": {
+          "interpolated": false,
+          "value": 33.80057171288137
+        }
+      },
+      "timestamp": 900
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 30.14848211675052
+        },
+        "1": {
+          "interpolated": false,
+          "value": 1.8450476078849871
+        }
+      },
+      "timestamp": 910
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 30.341671800027523
+        },
+        "1": {
+          "interpolated": false,
+          "value": 33.99612730363128
+        }
+      },
+      "timestamp": 920
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 30.534861483304525
+        },
+        "1": {
+          "interpolated": false,
+          "value": 22.176710007018404
+        }
+      },
+      "timestamp": 930
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 30.728051166581523
+        },
+        "1": {
+          "interpolated": false,
+          "value": 45.758271647667776
+        }
+      },
+      "timestamp": 940
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 30.921240849858524
+        },
+        "1": {
+          "interpolated": false,
+          "value": 27.378913384474895
+        }
+      },
+      "timestamp": 950
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 31.114430533135526
+        },
+        "1": {
+          "interpolated": false,
+          "value": 33.645862019301866
+        }
+      },
+      "timestamp": 960
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 31.307620216412527
+        },
+        "1": {
+          "interpolated": false,
+          "value": 32.489262701954104
+        }
+      },
+      "timestamp": 970
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 31.50080989968953
+        },
+        "1": {
+          "interpolated": false,
+          "value": 19.833805128766933
+        }
+      },
+      "timestamp": 980
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 31.69399958296653
+        },
+        "1": {
+          "interpolated": false,
+          "value": 0.9448465852243881
+        }
+      },
+      "timestamp": 990
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": false,
+          "value": 31.88718926624353
+        },
+        "1": {
+          "interpolated": false,
+          "value": 49.21399668006369
+        }
+      },
+      "timestamp": 1000
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 31.57392109173795
+        },
+        "1": {
+          "interpolated": false,
+          "value": 2.4794485054277686
+        }
+      },
+      "timestamp": 1010
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 31.260652917232367
+        },
+        "1": {
+          "interpolated": false,
+          "value": 15.741551955417393
+        }
+      },
+      "timestamp": 1020
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 30.947384742726786
+        },
+        "1": {
+          "interpolated": false,
+          "value": 19.3477176541009
+        }
+      },
+      "timestamp": 1030
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 30.634116568221206
+        },
+        "1": {
+          "interpolated": false,
+          "value": 14.868536043401317
+        }
+      },
+      "timestamp": 1040
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 30.32084839371562
+        },
+        "1": {
+          "interpolated": false,
+          "value": 27.95736951289478
+        }
+      },
+      "timestamp": 1050
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 30.00758021921004
+        },
+        "1": {
+          "interpolated": false,
+          "value": 32.77276460432327
+        }
+      },
+      "timestamp": 1060
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 29.69431204470446
+        },
+        "1": {
+          "interpolated": false,
+          "value": 29.3883039793131
+        }
+      },
+      "timestamp": 1070
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 29.381043870198877
+        },
+        "1": {
+          "interpolated": false,
+          "value": 43.48814461164615
+        }
+      },
+      "timestamp": 1080
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 29.067775695693296
+        },
+        "1": {
+          "interpolated": false,
+          "value": 29.349191751202298
+        }
+      },
+      "timestamp": 1090
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 28.754507521187715
+        },
+        "1": {
+          "interpolated": false,
+          "value": 7.500595600762303
+        }
+      },
+      "timestamp": 1100
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 28.44123934668213
+        },
+        "1": {
+          "interpolated": false,
+          "value": 0.03437116454135132
+        }
+      },
+      "timestamp": 1110
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 28.12797117217655
+        },
+        "1": {
+          "interpolated": false,
+          "value": 5.950794994312315
+        }
+      },
+      "timestamp": 1120
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 27.81470299767097
+        },
+        "1": {
+          "interpolated": false,
+          "value": 24.613635214611463
+        }
+      },
+      "timestamp": 1130
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 27.50143482316539
+        },
+        "1": {
+          "interpolated": false,
+          "value": 19.657331253738217
+        }
+      },
+      "timestamp": 1140
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 27.188166648659806
+        },
+        "1": {
+          "interpolated": false,
+          "value": 7.012712100795916
+        }
+      },
+      "timestamp": 1150
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 26.874898474154225
+        },
+        "1": {
+          "interpolated": false,
+          "value": 45.12399690595445
+        }
+      },
+      "timestamp": 1160
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 26.561630299648645
+        },
+        "1": {
+          "interpolated": false,
+          "value": 48.706868606043294
+        }
+      },
+      "timestamp": 1170
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 26.24836212514306
+        },
+        "1": {
+          "interpolated": false,
+          "value": 24.02216695118166
+        }
+      },
+      "timestamp": 1180
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 25.93509395063748
+        },
+        "1": {
+          "interpolated": false,
+          "value": 21.963337521442618
+        }
+      },
+      "timestamp": 1190
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 25.6218257761319
+        },
+        "1": {
+          "interpolated": false,
+          "value": 10.776629583399004
+        }
+      },
+      "timestamp": 1200
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 25.308557601626315
+        },
+        "1": {
+          "interpolated": false,
+          "value": 17.62495982218581
+        }
+      },
+      "timestamp": 1210
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 24.995289427120735
+        },
+        "1": {
+          "interpolated": false,
+          "value": 38.16097489722304
+        }
+      },
+      "timestamp": 1220
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 24.682021252615154
+        },
+        "1": {
+          "interpolated": false,
+          "value": 19.15218158555784
+        }
+      },
+      "timestamp": 1230
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 24.36875307810957
+        },
+        "1": {
+          "interpolated": false,
+          "value": 24.106730210013836
+        }
+      },
+      "timestamp": 1240
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 24.05548490360399
+        },
+        "1": {
+          "interpolated": false,
+          "value": 20.89797984103468
+        }
+      },
+      "timestamp": 1250
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 23.74221672909841
+        },
+        "1": {
+          "interpolated": false,
+          "value": 45.14052601723452
+        }
+      },
+      "timestamp": 1260
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 23.428948554592825
+        },
+        "1": {
+          "interpolated": false,
+          "value": 38.85060168072924
+        }
+      },
+      "timestamp": 1270
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 23.115680380087245
+        },
+        "1": {
+          "interpolated": false,
+          "value": 30.215516824267652
+        }
+      },
+      "timestamp": 1280
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 22.802412205581664
+        },
+        "1": {
+          "interpolated": false,
+          "value": 30.904786124347076
+        }
+      },
+      "timestamp": 1290
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 22.48914403107608
+        },
+        "1": {
+          "interpolated": false,
+          "value": 17.22631617874385
+        }
+      },
+      "timestamp": 1300
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 22.1758758565705
+        },
+        "1": {
+          "interpolated": false,
+          "value": 9.53873070294247
+        }
+      },
+      "timestamp": 1310
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 21.86260768206492
+        },
+        "1": {
+          "interpolated": false,
+          "value": 6.294272198919863
+        }
+      },
+      "timestamp": 1320
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 21.549339507559335
+        },
+        "1": {
+          "interpolated": false,
+          "value": 0.32359421911350117
+        }
+      },
+      "timestamp": 1330
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 21.236071333053754
+        },
+        "1": {
+          "interpolated": false,
+          "value": 4.947474903832632
+        }
+      },
+      "timestamp": 1340
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 20.922803158548174
+        },
+        "1": {
+          "interpolated": false,
+          "value": 7.316131891717208
+        }
+      },
+      "timestamp": 1350
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 20.60953498404259
+        },
+        "1": {
+          "interpolated": false,
+          "value": 26.969404477681113
+        }
+      },
+      "timestamp": 1360
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 20.29626680953701
+        },
+        "1": {
+          "interpolated": false,
+          "value": 42.018029226816864
+        }
+      },
+      "timestamp": 1370
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 19.98299863503143
+        },
+        "1": {
+          "interpolated": false,
+          "value": 41.57708975472622
+        }
+      },
+      "timestamp": 1380
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 19.669730460525848
+        },
+        "1": {
+          "interpolated": false,
+          "value": 15.703855166472975
+        }
+      },
+      "timestamp": 1390
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 19.356462286020264
+        },
+        "1": {
+          "interpolated": false,
+          "value": 9.433140885303349
+        }
+      },
+      "timestamp": 1400
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 19.043194111514683
+        },
+        "1": {
+          "interpolated": false,
+          "value": 46.59622005239372
+        }
+      },
+      "timestamp": 1410
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 18.729925937009103
+        },
+        "1": {
+          "interpolated": false,
+          "value": 0.48693446129561124
+        }
+      },
+      "timestamp": 1420
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 18.41665776250352
+        },
+        "1": {
+          "interpolated": false,
+          "value": 17.658282724800014
+        }
+      },
+      "timestamp": 1430
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 18.10338958799794
+        },
+        "1": {
+          "interpolated": false,
+          "value": 12.212940805208126
+        }
+      },
+      "timestamp": 1440
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 17.790121413492358
+        },
+        "1": {
+          "interpolated": false,
+          "value": 31.145392878892665
+        }
+      },
+      "timestamp": 1450
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 17.476853238986774
+        },
+        "1": {
+          "interpolated": false,
+          "value": 28.079356896912106
+        }
+      },
+      "timestamp": 1460
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 17.163585064481193
+        },
+        "1": {
+          "interpolated": false,
+          "value": 20.254794144331886
+        }
+      },
+      "timestamp": 1470
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 16.850316889975613
+        },
+        "1": {
+          "interpolated": false,
+          "value": 37.54539510702917
+        }
+      },
+      "timestamp": 1480
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 16.53704871547003
+        },
+        "1": {
+          "interpolated": false,
+          "value": 12.640336818185787
+        }
+      },
+      "timestamp": 1490
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 16.223780540964448
+        },
+        "1": {
+          "interpolated": false,
+          "value": 7.781450307057158
+        }
+      },
+      "timestamp": 1500
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 15.910512366458866
+        },
+        "1": {
+          "interpolated": false,
+          "value": 15.734502133095363
+        }
+      },
+      "timestamp": 1510
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 15.597244191953285
+        },
+        "1": {
+          "interpolated": false,
+          "value": 47.79725013992366
+        }
+      },
+      "timestamp": 1520
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 15.283976017447703
+        },
+        "1": {
+          "interpolated": false,
+          "value": 0.04143760516015928
+        }
+      },
+      "timestamp": 1530
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 14.97070784294212
+        },
+        "1": {
+          "interpolated": false,
+          "value": 44.2591468999735
+        }
+      },
+      "timestamp": 1540
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 14.65743966843654
+        },
+        "1": {
+          "interpolated": false,
+          "value": 1.6711394947284515
+        }
+      },
+      "timestamp": 1550
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 14.344171493930958
+        },
+        "1": {
+          "interpolated": false,
+          "value": 24.950150243414075
+        }
+      },
+      "timestamp": 1560
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 14.030903319425375
+        },
+        "1": {
+          "interpolated": false,
+          "value": 18.97789935348281
+        }
+      },
+      "timestamp": 1570
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 13.717635144919795
+        },
+        "1": {
+          "interpolated": false,
+          "value": 43.57782574747703
+        }
+      },
+      "timestamp": 1580
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 13.404366970414213
+        },
+        "1": {
+          "interpolated": false,
+          "value": 0.5433947107546738
+        }
+      },
+      "timestamp": 1590
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 13.091098795908632
+        },
+        "1": {
+          "interpolated": false,
+          "value": 46.61259775895478
+        }
+      },
+      "timestamp": 1600
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 12.77783062140305
+        },
+        "1": {
+          "interpolated": false,
+          "value": 33.95768737252921
+        }
+      },
+      "timestamp": 1610
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 12.464562446897467
+        },
+        "1": {
+          "interpolated": false,
+          "value": 0.7527766131039543
+        }
+      },
+      "timestamp": 1620
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 12.151294272391887
+        },
+        "1": {
+          "interpolated": false,
+          "value": 43.54760617104086
+        }
+      },
+      "timestamp": 1630
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 11.838026097886305
+        },
+        "1": {
+          "interpolated": false,
+          "value": 4.476326854146933
+        }
+      },
+      "timestamp": 1640
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 11.524757923380722
+        },
+        "1": {
+          "interpolated": false,
+          "value": 35.75689420285303
+        }
+      },
+      "timestamp": 1650
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 11.211489748875142
+        },
+        "1": {
+          "interpolated": false,
+          "value": 0.6082197574177387
+        }
+      },
+      "timestamp": 1660
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 10.89822157436956
+        },
+        "1": {
+          "interpolated": false,
+          "value": 46.15101019831568
+        }
+      },
+      "timestamp": 1670
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 10.584953399863977
+        },
+        "1": {
+          "interpolated": false,
+          "value": 47.84750976985658
+        }
+      },
+      "timestamp": 1680
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 10.271685225358397
+        },
+        "1": {
+          "interpolated": false,
+          "value": 12.635910726807476
+        }
+      },
+      "timestamp": 1690
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 9.958417050852814
+        },
+        "1": {
+          "interpolated": false,
+          "value": 42.98020849920381
+        }
+      },
+      "timestamp": 1700
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 9.645148876347234
+        },
+        "1": {
+          "interpolated": false,
+          "value": 18.92610317008072
+        }
+      },
+      "timestamp": 1710
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 9.331880701841651
+        },
+        "1": {
+          "interpolated": false,
+          "value": 19.086955782920985
+        }
+      },
+      "timestamp": 1720
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 9.018612527336069
+        },
+        "1": {
+          "interpolated": false,
+          "value": 27.523464375226638
+        }
+      },
+      "timestamp": 1730
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 8.705344352830489
+        },
+        "1": {
+          "interpolated": false,
+          "value": 29.753500055833683
+        }
+      },
+      "timestamp": 1740
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 8.392076178324906
+        },
+        "1": {
+          "interpolated": false,
+          "value": 40.36201822224383
+        }
+      },
+      "timestamp": 1750
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 8.078808003819324
+        },
+        "1": {
+          "interpolated": false,
+          "value": 13.277379513935013
+        }
+      },
+      "timestamp": 1760
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 7.7655398293137425
+        },
+        "1": {
+          "interpolated": false,
+          "value": 7.851594283751809
+        }
+      },
+      "timestamp": 1770
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 7.452271654808161
+        },
+        "1": {
+          "interpolated": false,
+          "value": 28.009990203615192
+        }
+      },
+      "timestamp": 1780
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 7.13900348030258
+        },
+        "1": {
+          "interpolated": false,
+          "value": 7.651289235459828
+        }
+      },
+      "timestamp": 1790
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 6.825735305796998
+        },
+        "1": {
+          "interpolated": false,
+          "value": 49.67348298332437
+        }
+      },
+      "timestamp": 1800
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 6.512467131291416
+        },
+        "1": {
+          "interpolated": false,
+          "value": 7.00865692231622
+        }
+      },
+      "timestamp": 1810
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 6.1991989567858345
+        },
+        "1": {
+          "interpolated": false,
+          "value": 1.3731073982425184
+        }
+      },
+      "timestamp": 1820
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 5.885930782280253
+        },
+        "1": {
+          "interpolated": false,
+          "value": 17.99292441655654
+        }
+      },
+      "timestamp": 1830
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 5.572662607774671
+        },
+        "1": {
+          "interpolated": false,
+          "value": 17.780110164138645
+        }
+      },
+      "timestamp": 1840
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 5.259394433269089
+        },
+        "1": {
+          "interpolated": false,
+          "value": 20.921754106327544
+        }
+      },
+      "timestamp": 1850
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 4.946126258763508
+        },
+        "1": {
+          "interpolated": false,
+          "value": 14.225370615486968
+        }
+      },
+      "timestamp": 1860
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 4.6328580842579266
+        },
+        "1": {
+          "interpolated": false,
+          "value": 5.552848480486627
+        }
+      },
+      "timestamp": 1870
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 4.319589909752344
+        },
+        "1": {
+          "interpolated": false,
+          "value": 27.297079856388386
+        }
+      },
+      "timestamp": 1880
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 4.006321735246763
+        },
+        "1": {
+          "interpolated": false,
+          "value": 47.50976963979605
+        }
+      },
+      "timestamp": 1890
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 3.693053560741181
+        },
+        "1": {
+          "interpolated": false,
+          "value": 19.011823081262527
+        }
+      },
+      "timestamp": 1900
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 3.3797853862355995
+        },
+        "1": {
+          "interpolated": false,
+          "value": 25.4714659984286
+        }
+      },
+      "timestamp": 1910
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 3.0665172117300177
+        },
+        "1": {
+          "interpolated": false,
+          "value": 47.249789805293005
+        }
+      },
+      "timestamp": 1920
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 2.7532490372244363
+        },
+        "1": {
+          "interpolated": false,
+          "value": 29.950039334061067
+        }
+      },
+      "timestamp": 1930
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 2.4399808627188544
+        },
+        "1": {
+          "interpolated": false,
+          "value": 2.0865678031839927
+        }
+      },
+      "timestamp": 1940
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 2.126712688213273
+        },
+        "1": {
+          "interpolated": false,
+          "value": 40.30543193376662
+        }
+      },
+      "timestamp": 1950
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 1.813444513707691
+        },
+        "1": {
+          "interpolated": false,
+          "value": 28.919858589351993
+        }
+      },
+      "timestamp": 1960
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 1.5001763392021095
+        },
+        "1": {
+          "interpolated": false,
+          "value": 40.424450625727076
+        }
+      },
+      "timestamp": 1970
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 1.1869081646965278
+        },
+        "1": {
+          "interpolated": false,
+          "value": 26.67655965384376
+        }
+      },
+      "timestamp": 1980
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 0.8736399901909461
+        },
+        "1": {
+          "interpolated": false,
+          "value": 26.317570020734593
+        }
+      },
+      "timestamp": 1990
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": false,
+          "value": 0.5603718156853619
+        },
+        "1": {
+          "interpolated": false,
+          "value": 33.47041734314325
+        }
+      },
+      "timestamp": 2000
+    },
+    {
+      "sensors": {
+        "0": {
+          "interpolated": true,
+          "value": 0.5603718156853619
+        },
+        "1": {
+          "interpolated": false,
+          "value": 9.277032223306561
+        }
+      },
+      "timestamp": 2010
+    }
+  ]
+}
