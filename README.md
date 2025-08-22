@@ -1,4 +1,4 @@
-## Sensors Simulation
+## Sensors Simulation (MVP)
 
 ### Description
 C++ Application that simulates sensors transmitting information with different
